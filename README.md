@@ -2,5 +2,5 @@
 # Recitation-012-Team-06
 - Jenn Kaphammer, jkaphammer
 - Hayden Moll, haydenjmoll
-- Justin Cero, Justin-Caro
+- Justin Caro, Justin-Caro
 - Arthur Barbosa, arba9752
